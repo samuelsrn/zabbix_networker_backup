@@ -4,7 +4,7 @@ Script em Python para monitoramento de Jobs de Backup ferramenta EMC NetWorker D
 # Como utilizar
 Adicione o script ao diretório de scripsts no Zabbix proxy ou server.
 
-Os dados de conexão SSH no servidor de Backup devem ser colocadas dentro do script nas variáveis indicadas.
+Os dados de conexão SSH no servidor de Backup devem ser colocados dentro do script nas variáveis indicadas.
 
 Crie um item Type External check no seu IC e coloque o nome do script.
 
