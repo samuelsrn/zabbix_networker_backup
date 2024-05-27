@@ -16,7 +16,7 @@ buscar_hora = buscar_hora - timedelta(hours=1)
 hora = buscar_hora.strftime('%m/%d/%y %H')
 
 # Diretorio do arquivo de log
-diretorio_log = ""
+diretorio_log = "/nsr/logs/output.log"
 
 # Comando de Busca
 commands = [
