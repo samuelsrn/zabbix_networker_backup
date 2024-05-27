@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 import paramiko
 from datetime import datetime, timedelta
 import json
